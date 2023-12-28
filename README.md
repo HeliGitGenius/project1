@@ -16,13 +16,14 @@ This repository contains an Android PhotoEditor app developed in Java using Andr
 - Save edited images to the device or share them on social media platforms.
 - Open-source and fully customizable for further development.
 
-**Screenshots:**
 
-Include a few screenshots of your app to give users a quick preview.
+## Screenshots
+few screenshots of  app to give users a quick preview.
+#### PhotoEditing Filter
+![App Screenshot](https://images2.imgbox.com/31/46/ctd2Ants_o.jpg)
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+#### Homepage Screenshot
+![App Screenshot](https://images2.imgbox.com/86/83/SmVOvt8n_o.jpg)
 
 ## Installation and Usage
 
