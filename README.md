@@ -21,7 +21,7 @@ This repository contains an Android PhotoEditor app developed in Java using Andr
 
 1. Clone this repository to your local machine using:
     ```bash
-   git@github.com:HeliGitGenius/ZPhotoEditor.git
+   git@github.com:HeliGitGenius/PhotoEditor.git
     ```
 
 2. Open the project in Android Studio.
