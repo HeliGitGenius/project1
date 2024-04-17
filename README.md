@@ -1,4 +1,4 @@
-# ZPhotoEditor
+# PicPerfection
 Android Photo Editor App | This repository contains an Android PhotoEditor app developed in Java using Android Studio. The app allows users to select images from their device using the Dhaval image picker library and then edit those images with various filters, effects, and other photo editing tools provided by the DS Photo Editor library.
 Certainly! Here is the markdown code for the README file I provided earlier:
 
@@ -17,19 +17,11 @@ This repository contains an Android PhotoEditor app developed in Java using Andr
 - Open-source and fully customizable for further development.
 
 
-## Screenshots
-few screenshots of  app to give users a quick preview.
-#### PhotoEditing Filter
-![App Screenshot](https://images2.imgbox.com/31/46/ctd2Ants_o.jpg)
-
-#### Homepage Screenshot
-![App Screenshot](https://images2.imgbox.com/86/83/SmVOvt8n_o.jpg)
-
 ## Installation and Usage
 
 1. Clone this repository to your local machine using:
     ```bash
-   git@github.com:AJOYSR/ZPhotoEditor.git
+   git@github.com:HeliGitGenius/ZPhotoEditor.git
     ```
 
 2. Open the project in Android Studio.
@@ -50,13 +42,10 @@ If you would like to contribute to this project, feel free to submit issues, fea
 
 
 
-**Contact:**
-
-For any questions, issues, or support, please contact [Ajoy Sarker](mailto:jucse28.384@gmail.com).
 
 **Author:**
 
-- [Ajoy Sarker](https://github.com/AJOYSRR)
+-Heli Makwana
 
 **Acknowledgments:**
 
